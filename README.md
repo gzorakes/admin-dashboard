@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/React-blue" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC" /> <img src="https://img.shields.io/badge/DaisyUI-ff69b4" /> <img src="https://img.shields.io/badge/Vite-yellow" /> <img src="https://img.shields.io/badge/Framer--Motion-0055FF" /> <img src="https://img.shields.io/badge/Recharts-FF7300" /> </p>
 
 An admin dashboard application featuring interactions and charts. Built entirely with React, TailwindCSS, DaisyUI, Vite, Framer Motion and Recharts for a beautiful UI, smooth animations and data visualization.
-🌐 [Visit the app](https://admin-dashboard-gzorakes.onrender.com)
+[🌐 Visit Website](https://admin-dashboard-one-alpha-71.vercel.app/)
 
 
 ## 📸 Dashboard
